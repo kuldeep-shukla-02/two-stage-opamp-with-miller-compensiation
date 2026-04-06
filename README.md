@@ -27,7 +27,7 @@ The topology is a classical two-stage Miller-compensated CMOS op-amp:
 - **Stage 2** — Common-source gain stage for additional voltage gain
 - **Compensation** — Miller capacitor `Cc` with a series zero-cancellation resistor `Rz = 1/gm2`
 
-![Schematic](Stage_1_Differential_Amplifier__1_.png)
+![results/Stage 1 Differential Amplifier (1).png
 
 ---
 
