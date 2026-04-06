@@ -50,7 +50,7 @@ Four curves are extracted from DC simulation by sweeping gate voltage at fixed d
 **gm/Id vs Overdrive Voltage**
 Used to verify the transistor's inversion level and check headroom on a 1.2 V supply.
 
-![gm/Id vs Vov](gm_over_id_vs_voverdrive.jpg)
+![gm/id vs gm/gds ]gm_id/gm_over_id_vs_voverdrive.jpg
 
 **gm/gds vs gm/Id (Intrinsic Gain)**
 Used to select channel length. Longer L increases gm/gds (more gain) but reduces fT (slower). L = 400–500 nm was chosen as the balance point.
