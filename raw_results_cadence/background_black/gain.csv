@@ -1,0 +1,2 @@
+Expression ,Value,Expression ,Value
+peakToPeak(v("/net4" ?result "tran")),199.5E-6,peakToPeak(v("/out" ?result "tran")),25.47E-3
